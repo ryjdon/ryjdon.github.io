@@ -31,7 +31,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	fa-instagram 
+  - icon: instagram 
     url:	https://instagram.com/watersandwich  
     desc: Follow me on Instagram
 #    share_url: //www.facebook.com/sharer.php
