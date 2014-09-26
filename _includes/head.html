@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" type="image/x-icon" href="http://ryjdon.github.io/favicon.ico" />
+  <link rel="icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" />
   <meta charset="utf-8">
   <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,8 +15,6 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-  <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
 <!-- In case I need to revert back. <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}"> -->
 
 <!--  <link rel="stylesheet" href="{{asset "js/styles/obsidian.css"}}"> -->
