@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: Ryan Donaldson's Blog
+title: Ryan Donaldson
 description: > # this means to ignore newlines until "email:"
-   A blog to write to your mother about
+   A blog to write home to your mother about
 
 email: ryjdon@gmail.com
 #blog logo
