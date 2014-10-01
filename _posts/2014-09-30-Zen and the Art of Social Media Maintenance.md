@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog Challenge"
+title:  "Zen and the Art of Social Media Maintenance"
 date:   2014-09-30
 categories: Post
 tags: featured
