@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Blog Challenge"
+date:   2014-09-30
+categories: Post
+tags: featured
+image: /assets/article_images/IMG_20140924_174507.jpg
+---
+
 Earlier this week, I was buying spark plug wire from the local motorcycle/coffee shop (because it’s the Pacific Northwest and of course that exists). The barista, decked in heavily worn black t-shirt and trucker hat, asked me what I was up to. “Just doing a spark plug job,” I say as casually as I can. To which he replies, “Well, that’s where it all starts.” I paused for a second, taken aback at how aptly punny this cool dood had just been. He could have just been referring to the slippery slope of motorcycle repair, sure. Instead, I preferred the inside baseball witticism about the raw function of the spark plug: providing the essential electrical charge to the vaporized fuel in the combustion chambers of a motorcycle so the pistons can fire and start the engine. Such clever retorts usually just deserve a chuckle, so why start a blog post (and a blog) out this way? 
 
 Well, there are subtleties to beginnings. Whether you’re crafting the first lyrical sentence to the next Great American Novel, learning how to drive stick shift in an empty highschool parking lot, or just making a grocery list, there’s a hesitation before you start. You need to make sure you’re committed to the task at hand. You check your mirrors, peek in the fridge, set the scene in your head. But most importantly, you define the rules. The basic set of guiding principles you’ll need in order to accomplish what you set out to do. For our purpose in this blog post, that means we need to talk about why this blog exists. 
