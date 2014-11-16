@@ -3,7 +3,6 @@ layout: post
 title:  "Not All Millennials are Social Media Experts"
 date:   2014-10-15
 categories: Post
-tags: featured
 image: false
 ---
 

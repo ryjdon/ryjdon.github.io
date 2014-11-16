@@ -3,7 +3,6 @@ layout: post
 title:  "Zen and the Art of Social Media Maintenance"
 date:   2014-09-30
 categories: Post
-tags: featured
 image: /assets/article_images/IMG_20140924_174507.jpg
 ---
 
